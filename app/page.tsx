@@ -1,7 +1,7 @@
 import Sketchbook from "@/components/Sketchbook";
 import Botanicals from "@/components/Botanicals";
 
-const NAME = "Sanjeev";
+const NAME = "Singapore";
 
 export default function Home() {
   return (

@@ -6,3 +6,6 @@ next-env.d.ts
 .env*.local
 .vercel
 npm-debug.log*
+
+# local editor / Claude config
+.claude/
